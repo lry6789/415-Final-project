@@ -1257,3 +1257,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 	Function /Game/FPSAssets/Weapon/AK-47/Weapon_Base.Weapon_Base_C:Reload:024C
 [2022.11.13-23.31.42:247][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character_1". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
 [2022.11.13-23.31.54:382][676]LogBlueprintUserMessages: [Weapon_Base_C_0] Clip Full
+[2022.11.13-23.33.31:964][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-23.33.31:964][711]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level_Design
+[2022.11.13-23.33.31:964][711]LogWorld: UWorld::CleanupWorld for Level_Design, bSessionEnded=true, bCleanupResources=true
+[2022.11.13-23.33.31:964][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-23.33.31:971][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.13-23.33.31:987][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.13-23.33.31:993][711]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.13-23.33.31:993][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-23.33.31:994][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.13-23.33.31:996][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.13-23.33.31:998][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.13-23.33.32:069][712]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.11.13-23.33.32:958][760]LogSlate: Window 'Message Log' being destroyed
+[2022.11.13-23.33.32:963][760]LogSlate: Window 'Message Log' being destroyed
+[2022.11.13-23.33.33:462][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.11.13-23.33.35:941][790]LogSlate: Window 'Save Content' being destroyed
+[2022.11.13-23.33.37:089][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.13-23.33.37:993][859]LogSlate: Window 'Save Content' being destroyed
+[2022.11.13-23.33.38:039][859]LogSavePackage: Moving '../../../../../../../../UIUC/2022F/415/Final project/415-Final-project/FPSCode/Saved/landscape_Mat67AA4DBD4FC290420C7A3FAF86BD9B90.tmp' to '../../../../../../../../UIUC/2022F/415/Final project/415-Final-project/FPSCode/Content/InfinityBladeEffects/landscape_Mat.uasset'
+[2022.11.13-23.33.38:046][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.13-23.33.38:142][859]LogSavePackage: Moving '../../../../../../../../UIUC/2022F/415/Final project/415-Final-project/FPSCode/Saved/Level_Design98DAF92C4989B6E60F66AFBA025A7392.tmp' to '../../../../../../../../UIUC/2022F/415/Final project/415-Final-project/FPSCode/Content/ThirdPersonBP/Maps/Level_Design.umap'
+[2022.11.13-23.33.38:149][859]LogFileHelpers: Saving map 'Level_Design' took 0.109
+[2022.11.13-23.33.38:271][859]LogSavePackage: Moving '../../../../../../../../UIUC/2022F/415/Final project/415-Final-project/FPSCode/Saved/Level_Design_BuiltData3978E5004B9896F339A0F4BEA4818D48.tmp' to '../../../../../../../../UIUC/2022F/415/Final project/415-Final-project/FPSCode/Content/ThirdPersonBP/Maps/Level_Design_BuiltData.uasset'
+[2022.11.13-23.33.38:281][859]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.13-23.33.38:281][859]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/Level_Design.Level_Design
+[2022.11.13-23.33.38:281][859]LogContentValidation: Display: Validating Material /Game/InfinityBladeEffects/landscape_Mat.Landscape_Mat
+[2022.11.13-23.33.38:281][859]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/Level_Design_BuiltData.Level_Design_BuiltData
+[2022.11.13-23.33.48:805][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.13-23.33.49:938][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.11.13-23.33.50:072][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
